@@ -1,3 +1,3 @@
-prefix = "devops2-saurabh-d-aks"
+prefix = "husseindevops2-aks"
 location = "West Europe"
 default_node_pool_name = "sau"
